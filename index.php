@@ -1,3 +1,3 @@
 <?php
-    echo "Hola mundo1";
-    echo "Hola mundo2";
+    echo "Hola mundo";
+     echo "Hola mundo2";
